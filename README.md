@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rking1705
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Red Team/pentesting and Java
+- 🌱 I’m currently learning Red Team/pentesting and Python
 - 📫 How to reach me: kingryan1705@gmail.com https://www.linkedin.com/in/ryan-king-71752b306/
 
 
